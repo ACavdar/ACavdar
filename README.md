@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there 🖖, 
+
+- 🔭 I’m currently working on softwares used in smart grid systems, remote meter reading systems communicating via GSM, PLC, TCP. Those system includes smart modems, IoT devices, meters that has integrated modems etc. 
+
 
 <!--
 **ACavdar/ACavdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
